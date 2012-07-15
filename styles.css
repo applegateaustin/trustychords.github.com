@@ -7,3 +7,6 @@ h1 {
 p {
   font-color: blue;
 }
+div {
+  cursor: pointer;
+}
