@@ -1,14 +1,12 @@
 body {
-  background-color: red;
+  background-color: black;
 }
 h1 {
   text-align: center;
+  color: red;
 }
 p { 
-  color: black;
-}
-body {
-  cursor: pointer;
+  color: red;
 }
 .header-box {
   border: 2px solid red;
@@ -16,11 +14,21 @@ body {
 }
 .boxed {
   border: 2px solid red;
-  display: inline-block;
+  float: right;
   width: 400px;
   height: 300px;
   margin-bottom: 10px;
 }
 p {
   text-align: left;
+}
+li {
+  color: red;
+}
+.demon-box {
+  float: left;
+  width: 45%;
+}
+a {
+  cursor: "pointer";
 }
