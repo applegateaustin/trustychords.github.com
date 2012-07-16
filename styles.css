@@ -9,4 +9,6 @@ p { color: blue;
 body {
   cursor: pointer;
 }
-
+.boxed {
+  border: 2px solid blue
+}
