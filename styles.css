@@ -35,7 +35,14 @@ a {
   cursor: "pointer";
 }
 .monk-tanking-video {
-  float: right;
   margin-top: 10px;
+  position: absolute;
+  top: 442px;
+  right: 10px;
+}
+.monk-gear {
+  position: absolute;
+  top: 442px;
+  left: 10px;
 }
 
