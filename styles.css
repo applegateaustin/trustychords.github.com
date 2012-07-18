@@ -3,17 +3,17 @@ body {
 }
 h1 {
   text-align: center;
-  color: red;
+  color: blue;
 }
 p { 
-  color: red;
+  color: blue;
 }
 .header-box {
-  border: 2px solid red;
+  border: 2px solid blue;
   margin-bottom: 10px;
 }
 .boxed {
-  border: 2px solid red;
+  border: 2px solid blue;
   float: right;
   width: 400px;
   height: 300px;
@@ -23,12 +23,19 @@ p {
   text-align: left;
 }
 li {
-  color: red;
+  color: blue;
 }
 .demon-box {
+  margin-top: 36px;
   float: left;
-  width: 45%;
+  width: 400;
+  height: 300;
 }
 a {
   cursor: "pointer";
 }
+.monk-tanking-video {
+  float: right;
+  margin-top: 10px;
+}
+
