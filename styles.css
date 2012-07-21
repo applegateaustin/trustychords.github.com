@@ -16,7 +16,7 @@ p {
   border: 2px solid blue;
   float: right;
   width: 400px;
-  height: 300px;
+  height: 200px;
   margin-bottom: 10px;
 }
 p {
@@ -35,14 +35,21 @@ a {
   cursor: "pointer";
 }
 .monk-tanking-video {
+  color: blue;
+  border: 2px solid blue;
   margin-top: 10px;
   position: absolute;
   top: 442px;
   right: 10px;
 }
+.monk-tanking-video {
+  text-align: right;
+}
 .monk-gear {
+  color: blue;
   position: absolute;
-  top: 442px;
+  top: 450px;
   left: 10px;
+  margin-top: 10px;
 }
 
