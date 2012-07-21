@@ -25,12 +25,6 @@ p {
 li {
   color: blue;
 }
-.demon-box {
-  margin-top: 36px;
-  float: left;
-  width: 400;
-  height: 300;
-}
 a {
   cursor: "pointer";
 }
@@ -48,8 +42,13 @@ a {
 .monk-gear {
   color: blue;
   position: absolute;
-  top: 450px;
+  top: 70px;
   left: 10px;
   margin-top: 10px;
 }
-
+.monk-resistance {
+  color: blue;
+  position: absolute;
+  top: 450px;
+  left: 10px;
+}
