@@ -30,7 +30,7 @@ li {
 a {
   cursor: "pointer";
 }
-.monk-tanking-video {
+.demon-hunter-video {
   color: blue;
   border: 2px solid blue;
   margin-top: 10px;
@@ -38,17 +38,17 @@ a {
   top: 442px;
   right: 10px;
 }
-.monk-tanking-video {
+.demon-hunter-video {
   text-align: right;
 }
-.monk-gear {
+.demon-hunter-gear {
   color: blue;
   position: absolute;
   top: 70px;
   right: 10px;
   margin-top: 10px;
 }
-.monk-resistance {
+.demon-hunter-stats {
   color: blue;
   position: absolute;
   top: 450px;
